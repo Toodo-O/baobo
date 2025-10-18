@@ -63,7 +63,7 @@ export default {
         }
       },
       fontFamily: {
-        sans: ['Noto Sans SC', 'sans-serif'],
+        sans: ['Noto Sans JP', 'sans-serif'],
         serif: ['Noto Serif SC', 'serif'],
         mono: ['JetBrains Mono', 'monospace'],
       },

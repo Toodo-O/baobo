@@ -13,7 +13,7 @@
                         ><strong class="z-16"
                           ><span class="text-[24px] md:text-[34px] z-16"
                             ><span class="font-['Source_Han_Sans'] z-16"
-                              >联系我们</span
+                              >お問い合わせ</span
                             ></span
                           ></strong
                         ></span
@@ -28,7 +28,9 @@
               <div class="h-full z-[7]">
                 <div class="h-full break-words z-[7]">
                   <p class="text-center z-[7]">
-                    <span class="tracking-[15px] text-sm font-['Arial_Black'] z-[7]">
+                    <span
+                      class="tracking-[15px] text-sm font-['Arial_Black'] z-[7]"
+                    >
                       <span class="text-white">CO</span>
                       <span class="text-[#00FFC0]">N</span>
                       <span class="text-white">TACT </span>
@@ -47,23 +49,27 @@
       <div class="container mx-auto">
         <div class="text-center" data-aos="fade-left">
           <h2 class="text-3xl font-bold font-['Source_Han_Sans'] text-gray-800">
-            联系我们，开启合作之旅
+            お問い合わせはこちらから — 協業の第一歩を共に。
           </h2>
           <div
             class="w-[270px] h-[17px] bg-[#00FFC0] mx-auto mt-[-7px]"
             data-aos="fade-right"
           ></div>
         </div>
-        <div class="max-w-3xl mx-auto mt-10" data-aos="fade-up">
-          <p class="text-center text-gray-600 text-lg leading-relaxed mb-6">
-            我们致力于为企业提供专业的技术解决方案和优质服务
+        <div class="mx-auto mt-10 max-w-3xl" data-aos="fade-up">
+          <p class="mb-6 text-lg leading-relaxed text-center text-gray-600">
+            私たちは、企業様に向けて 専門的な技術ソリューション と
+            高品質なサービス を提供することに尽力しています。
+            <br />
+            ご相談・技術サポート・ビジネス協業など、
+            どのようなご要望にも、弊社の専門チームが真心を込めて対応いたします。
           </p>
-          <p class="text-center text-gray-600 text-base leading-relaxed mb-4">
+          <!-- <p class="mb-4 text-base leading-relaxed text-center text-gray-600">
             无论您需要咨询服务、技术支持还是商务合作
           </p>
-          <p class="text-center text-gray-600 text-base leading-relaxed">
+          <p class="text-base leading-relaxed text-center text-gray-600">
             我们的专业团队都将竭诚为您提供最优质的服务体验
-          </p>
+          </p> -->
         </div>
         <div class="flex justify-evenly mt-6 contact-wrap">
           <a href="tel:090-7518-1818">
@@ -96,7 +102,7 @@
                 />
               </div>
               <div class="text-center max-md:text-[12px]">
-                <span>tokyo@baobo.co.jp</span>
+                <span>technology@baobo.jp</span>
               </div>
             </div>
           </a>
@@ -112,32 +118,39 @@
               />
             </div>
             <div class="text-center max-md:text-[12px]">
-              <span>東京都江東区東雲1-9-31</span>
+              <span>東京都中央区晴海4丁目7-4 CROSS DOCK HARUMI 1F</span>
             </div>
           </div>
         </div>
       </div>
     </section>
-    
+
     <!-- Google Map Section -->
     <section class="py-16 bg-gray-50">
       <div class="container px-4 mx-auto">
-        <div class="text-center mb-12" data-aos="fade-up">
-          <h3 class="text-2xl font-bold text-gray-800 mb-4">我们的位置</h3>
-          <p class="text-gray-600">欢迎您到访我们的办公室，我们期待与您面对面交流</p>
+        <div class="mb-12 text-center" data-aos="fade-up">
+          <h3 class="mb-4 text-2xl font-bold text-gray-800">所在地</h3>
+          <p class="text-gray-600">
+            弊社オフィスへのご来訪を心よりお待ちしております。
+            ぜひ直接お越しいただき、対面でのご相談をお楽しみください。
+          </p>
         </div>
-        <div class="w-full h-[400px] md:h-[500px] rounded-lg overflow-hidden shadow-lg" data-aos="zoom-in">
-           <iframe
-              src="https://maps.google.com/maps?width=100%&height=400&hl=ja&q=東京都江東区東雲1-9-31&ie=UTF8&t=&z=16&iwloc=B&output=embed"
-              width="100%"
-              height="100%"
-              class="border-0"
-              allowfullscreen=""
-              loading="lazy"
-              referrerpolicy="no-referrer-when-downgrade"
-              title="Company Location Map"
-            ></iframe>
-         </div>
+        <div
+          class="w-full h-[400px] md:h-[500px] rounded-lg overflow-hidden shadow-lg"
+          data-aos="zoom-in"
+        >
+          <iframe
+            src="https://maps.google.com/maps?width=100%&height=400&hl=ja&q=東京都中央区晴海4丁目7-4
+CROSS DOCK HARUMI 1F&ie=UTF8&t=&z=16&iwloc=B&output=embed"
+            width="100%"
+            height="100%"
+            class="border-0"
+            allowfullscreen=""
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+            title="Company Location Map"
+          ></iframe>
+        </div>
         <div class="mt-6 text-center">
           <a
             href="https://maps.google.com/?q=東京都江東区東雲1-9-31"
@@ -145,11 +158,26 @@
             rel="noopener noreferrer"
             class="inline-flex items-center px-6 py-3 text-white bg-blue-600 rounded-lg transition-colors duration-300 hover:bg-blue-700"
           >
-            <svg class="mr-2 w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path>
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>
+            <svg
+              class="mr-2 w-5 h-5"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"
+              ></path>
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"
+              ></path>
             </svg>
-            在Google地图中查看
+            <span>Googleマップで表示</span>
           </a>
         </div>
       </div>

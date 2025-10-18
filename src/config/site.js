@@ -20,11 +20,11 @@ const siteConfig = {
 
   // 导航菜单
   navItems: [
-    { name: "首页", path: "/" },
-    { name: "我们的故事", path: "/story" },
-    { name: "鲍勃产品", path: "/products" },
-    { name: "鲍勃服务", path: "/services" },
-    { name: "联系我们", path: "/contact" },
+    { name: "Home", path: "/" },
+    { name: "会社の歩み", path: "/story" },
+    { name: "Baobo Products", path: "/products" },
+    { name: "Baoboサービス", path: "/services" },
+    { name: "お問い合わせ", path: "/contact" },
   ],
 
  

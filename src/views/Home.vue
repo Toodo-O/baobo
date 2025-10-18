@@ -16,7 +16,7 @@
               class="text-white text-[16px] md:text-[18px] lg:text-[22px] mt-2 text-center"
               data-aos="zoom-in"
             >
-              褒博機電科技有銀公司
+              株式会社Baobo Technology
             </span>
             <div
               class="line h-[50px] md:h-[65px] lg:h-[80px] w-[1px] mt-[25px] md:mt-[32px] lg:mt-[40px] bg-white"
@@ -45,7 +45,7 @@
               class="mb-4 text-[24px] md:text-[28px] lg:text-[32px] font-bold"
               style="font-family: 'Source Han Sans,Geneva,sans-serif'"
             >
-              我们的故事
+              会社の歩み
             </h2>
             <span style="font-family: Arial Black"
               ><span class="text-xs md:text-sm"
@@ -78,7 +78,10 @@
               <span style="line-height: 1.5"
                 ><span class="text-sm md:text-base"
                   >&nbsp; &nbsp;
-                  &nbsp;公司在中國香港成立於2011年。團隊總部位於香港，在上海設有分支機構，我們的團隊由一支充滿活力的企業家和受過國內外高等教育的員工組成，他們來自全球電信領導者公司和中國現有運營商等不同背景。</span
+                  &nbsp;当社は2011年に中国・香港で設立されました。
+本社は香港に所在し、上海に支社を構えています。
+当社のチームは、エネルギーにあふれる起業家と、国内外で高等教育を受けた専門人材で構成されています。
+メンバーは、世界的な通信リーダー企業や中国の主要通信事業者など、多様なバックグラウンドを持っています</span
                 ></span
               >
             </p>
@@ -134,7 +137,7 @@
               <strong
                 ><span
                   class="tracking-[1.5px] text-[#333333] font-['Source_Han_Sans'] text-xl sm:text-2xl lg:text-[32px]"
-                  >高速企業專綫</span
+                  >高速な企業専用線</span
                 ></strong
               >
             </p>
@@ -148,8 +151,10 @@
             <p>&nbsp;</p>
 
             <p>
-              <span class="leading-[1.5] text-[10.5pt] font-['宋体']"
-                >褒博科技作為資深的數據網路運營者，擁有10多年的運營管理經驗，向用戶提供最先進，最安全，最可靠的高速、短時延專網解決方案，實現高速率，低延遲，超安全的專線傳輸。</span
+              <span class="leading-[1.5] text-[10.5pt] font-sans"
+                >Baobo Technologyは、経験豊富なデータネットワーク運営者として、10年以上の運営管理実績を有し、
+お客様に最先端で、最も安全かつ信頼性の高い高速・低遅延の専用ネットワークソリューションを提供しています。
+これにより、高速通信、低レイテンシー、そして高度なセキュリティを実現した専用線伝送を可能にしています。</span
               >
             </p>
 
@@ -180,7 +185,7 @@
               <p>
                 <span
                   class="text-[#333333] font-['Source_Han_Sans'] text-lg md:text-xl lg:text-2xl xl:text-[32px]"
-                  ><strong>專業IDC業務</strong></span
+                  ><strong>プロフェッショナルなIDCソリューション</strong></span
                 >
               </p>
 
@@ -195,8 +200,13 @@
               <p class="mt-4">&nbsp;</p>
 
               <p>
-                <span class="leading-[1.5] text-sm md:text-base font-['宋体']"
-                  >為客戶提供中國及亞太地區的IDC租賃和托管服務。以高速可靠的內外部網路環境和系統化的監控管理支持手段，為客戶集中式收集、存儲、處理和發送數據的設備提供專業託管空間、高端數據傳輸和高速接入服務。</span
+                <span class="leading-[1.5] text-sm md:text-base font-sans"
+                  > 
+ 	
+中国およびアジア太平洋地域のお客様に対し、IDCのリースおよびホスティングサービスを提供しています。
+高速で信頼性の高い内外ネットワーク環境と、体系的な監視・管理体制を通じて、
+お客様のデータ収集・保存・処理・送信機器に最適なプロフェッショナルなコロケーションスペース、
+高品質なデータ伝送および高速アクセスサービスをご提供しています。</span
                 >
               </p>
 
@@ -238,7 +248,7 @@
           <span
             style="font-family: Source Han Sans, Geneva, sans-serif"
             class="text-base sm:text-lg md:text-xl lg:text-2xl xl:text-[36px] font-semibold block mb-2"
-            >期待與您的合作</span
+            >お客様とのパートナーシップを心よりお待ちしております</span
           >
           <span
             style="font-family: Arial Black"
@@ -272,25 +282,25 @@ export default {
     const Story = [
       {
         icon: Team,
-        text: '優秀的技術團隊',
+        text: '優れた技術チーム',
         aos: 'fade-left',
         aosDelay: 100,
       },
       {
         icon: Support,
-        text: '專業的技術支持',
+        text: '専門的な技術サポート',
         aos: 'fade-down',
         aosDelay: 200,
       },
       {
         icon: Setting,
-        text: '專業的技術服務',
+        text: 'プロフェッショナルな技術サービス',
         aos: 'fade-right',
         aosDelay: 300,
       },
       {
         icon: Index,
-        text: '獨有的核心資源',
+        text: '独自のコアリソース',
         aos: 'fade-down',
         aosDelay: 400,
       },

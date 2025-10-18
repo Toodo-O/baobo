@@ -13,7 +13,7 @@
                         ><strong class="z-16"
                           ><span class="text-[24px] md:text-[34px] z-16"
                             ><span class="font-['Source_Han_Sans'] z-16"
-                              >褒博服務</span
+                              >Baoboサービス</span
                             ></span
                           ></strong
                         ></span
@@ -80,7 +80,7 @@
                       ><span class="font-['Source_Han_Sans']"
                         ><strong
                           ><span class="text-black"
-                            >我们提供的服务</span
+                            >サービス</span
                           ></strong
                         ></span
                       ></span
@@ -114,7 +114,7 @@
               ></div>
               <div
                 style="
-                  height: 81px;
+                  /* height: 81px; */
                   width: 285px;
                   left: 55px;
                   top: 0px;
@@ -182,7 +182,7 @@
                 </div>
               </div>
             </div>
-            <div class="h-[30px] w-[140px] z-9 mx-auto mt-4">
+            <div class="h-[30px] min-w-[140px] z-9 mx-auto mt-4">
               <div
                 class="overflow-hidden yibuFrameContent con_73_49 text_Style1"
               >
@@ -190,7 +190,7 @@
                   <div class="h-full break-words editableContent">
                     <p class="text-center">
                       <span class="text-lg md:text-2xl"
-                        ><span class="text-white">我們的優勢</span></span
+                        ><span class="text-white">私たちの強み（Our Strengths）</span></span
                       >
                     </p>
                   </div>
@@ -303,37 +303,37 @@ export default {
     const serviceItems = [
       {
         class: 'bg-service1',
-        title: '訂製服務',
+        title: 'カスタマイズソリューション',
         description:
-          '工程、機電及網絡團隊隨時與運維團隊緊密配合，按客戶實際需求靈活定制服務',
+          'エンジニアリング・電気機械・ネットワークの各専門チームが、運用保守チームと緊密に連携し、お客様の実際のニーズに合わせた柔軟なサービス設計・提供を行います。',
       },
       {
         class: 'bg-service2',
-        title: '多語種支持',
-        description: '提供中文、英文、韓文、日文多語種在綫技術支持',
+        title: '多言語サポート',
+        description: '中国語・英語・韓国語・日本語による多言語オンライン技術サポートを提供し、グローバルなお客様を包括的にサポートします。',
       },
       {
         class: 'bg-service3',
-        title: '網管數據監控',
+        title: 'ネットワーク監視・運用管理',
         description:
-          '7*24在綫的網管服務，實時為用戶提供最即時的故障統計和技術支持',
+          '24時間365日のネットワーク監視体制を整え、リアルタイムで障害検知・統計・技術支援を行い、安定したネットワーク運用を確保します。',
       },
       {
         class: 'bg-service4',
-        title: '運輸倉儲服务',
+        title: '物流・倉庫サービス',
         description:
-          '幫助客戶高效運輸和通關普通和高價值貨物，在多地區擁有可靠的倉儲空間供客戶周轉存儲。',
+          '一般貨物から高価値機器まで、安全かつ効率的な輸送と通関をサポート。複数地域に信頼性の高い倉庫スペースを確保し、柔軟なストレージ・ロジスティクスを実現します。',
       },
       {
         class: 'bg-service5',
-        title: 'IDC現場服務',
+        title: 'IDCオンサイトサービス',
         description:
-          '根據客戶的授權，提供Remote Hands、Smart Hands智能手服務。',
+          'お客様からの委託に基づき、Remote Hands・Smart Hands サービスを提供。機器設置、交換、ケーブリングなどの作業を迅速かつ正確に実施します。',
       },
       {
         class: 'bg-service6',
-        title: '快速響應',
-        description: '專業團隊24小時待命，5分鐘響應，2小時内抵達城市任意IDC',
+        title: '迅速な対応体制',
+        description: '専門チームが24時間待機し、5分以内の応答、2時間以内に都市圏のあらゆるIDCへ駆け付け可能な体制を整えています。',
       },
     ]
 
@@ -343,28 +343,28 @@ export default {
         title: '12+',
         aos: 'fade-left',
         aosDelay: 600,
-        desc: '年行業經驗',
+        desc: '年年間業界での経験',
       },
       {
         class: service2,
         title: '100%',
         aos: 'fade-left',
         aosDelay: 300,
-        desc: '客戶滿意度',
+        desc: '顧客満足度',
       },
       {
         class: service3,
         title: '100+',
         aos: 'fade-right',
         aosDelay: 300,
-        desc: '建立合作關係',
+        desc: 'パートナーシップの構築',
       },
       {
         class: service4,
         title: '25+',
         aos: 'fade-right',
         aosDelay: 600,
-        desc: '城市駐點服務團隊',
+        desc: '都市拠点サービスチーム',
       },
     ]
     return { serviceItems, advantage }

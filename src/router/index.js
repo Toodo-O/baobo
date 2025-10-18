@@ -8,31 +8,31 @@ const routes = [
     path: '/',
     name: 'Home',
     component: Home,
-    meta: { title: '首页' }
+    meta: { title: 'Home' }
   },
   {
     path: '/story',
     name: 'Story',
     component: () => import('../views/Story.vue'),
-    meta: { title: '我们的故事' }
+    meta: { title: '会社の歩み' }
   },
   {
     path: '/products',
     name: 'Products',
     component: () => import('../views/Products.vue'),
-    meta: { title: '鲍勃产品' }
+    meta: { title: 'Baobo Products' }
   },
   {
     path: '/contact',
     name: 'Contact',
     component: () => import('../views/Contact.vue'),
-    meta: { title: '联系我们' }
+    meta: { title: 'お問い合わせ' }
   },
   {
     path: '/services',
     name: 'Services',
     component: () => import('../views/Services.vue'),
-    meta: { title: '鲍勃服务' }
+    meta: { title: 'Baoboサービス' }
   }
 ];
 
