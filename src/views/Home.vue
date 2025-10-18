@@ -79,9 +79,9 @@
                 ><span class="text-sm md:text-base"
                   >&nbsp; &nbsp;
                   &nbsp;当社は2011年に中国・香港で設立されました。
-本社は香港に所在し、上海に支社を構えています。
-当社のチームは、エネルギーにあふれる起業家と、国内外で高等教育を受けた専門人材で構成されています。
-メンバーは、世界的な通信リーダー企業や中国の主要通信事業者など、多様なバックグラウンドを持っています。</span
+                  本社は香港に所在し、上海に支社を構えています。
+                  当社のチームは、エネルギーにあふれる起業家と、国内外で高等教育を受けた専門人材で構成されています。
+                  メンバーは、世界的な通信リーダー企業や中国の主要通信事業者など、多様なバックグラウンドを持っています。</span
                 ></span
               >
             </p>
@@ -130,7 +130,6 @@
         >
           <div
             class="editableContent"
-            id="txtc_con_167_17"
             style="height: 100%; word-wrap: break-word"
           >
             <p>
@@ -152,9 +151,10 @@
 
             <p>
               <span class="leading-[1.5] text-[10.5pt] font-sans"
-                >Baobo Technologyは、経験豊富なデータネットワーク運営者として、10年以上の運営管理実績を有し、
-お客様に最先端で、最も安全かつ信頼性の高い高速・低遅延の専用ネットワークソリューションを提供しています。
-これにより、高速通信、低レイテンシー、そして高度なセキュリティを実現した専用線伝送を可能にしています。</span
+                >Baobo
+                Technologyは、経験豊富なデータネットワーク運営者として、10年以上の運営管理実績を有し、
+                お客様に最先端で、最も安全かつ信頼性の高い高速・低遅延の専用ネットワークソリューションを提供しています。
+                これにより、高速通信、低レイテンシー、そして高度なセキュリティを実現した専用線伝送を可能にしています。</span
               >
             </p>
 
@@ -175,17 +175,16 @@
       </div>
       <div class="flex flex-col w-full lg:flex-row">
         <div
-          class="w-full lg:w-1/2 h-auto lg:h-[630px] md:bg-white px-4 sm:px-8 md:px-12 lg:px-20 py-8 lg:pt-[160px] order-1 lg:order-1"
+          class="w-full lg:w-1/2 h-auto lg:h-[630px] md:bg-white px-4 sm:px-8 md:px-12 lg:px-20 py-8 lg:pt-[70px] order-1 lg:order-1"
         >
-          <div id="txt_con_170_40" style="height: 100%">
-            <div
-              class="h-full break-words editableContent"
-              id="txtc_con_170_40"
-            >
+          <div style="height: 100%">
+            <div class="h-full break-words editableContent">
               <p>
                 <span
                   class="text-[#333333] font-['Source_Han_Sans'] text-lg md:text-xl lg:text-2xl xl:text-[32px]"
-                  ><strong>プロフェッショナルなIDC<br/>ソリューション</strong></span
+                  ><strong
+                    >プロフェッショナルなIDC<br />ソリューション</strong
+                  ></span
                 >
               </p>
 
@@ -200,13 +199,11 @@
               <p class="mt-4">&nbsp;</p>
 
               <p>
-                <span class="leading-[1.5] text-sm md:text-base font-sans"
-                  > 
- 	
-中国およびアジア太平洋地域のお客様に対し、IDCのリースおよびホスティングサービスを提供しています。
-高速で信頼性の高い内外ネットワーク環境と、体系的な監視・管理体制を通じて、
-お客様のデータ収集・保存・処理・送信機器に最適なプロフェッショナルなコロケーションスペース、
-高品質なデータ伝送および高速アクセスサービスをご提供しています。</span
+                <span class="leading-[1.5] text-sm md:text-base font-sans">
+                  中国およびアジア太平洋地域のお客様に対し、IDCのリースおよびホスティングサービスを提供しています。
+                  高速で信頼性の高い内外ネットワーク環境と、体系的な監視・管理体制を通じて、
+                  お客様のデータ収集・保存・処理・送信機器に最適なプロフェッショナルなコロケーションスペース、
+                  高品質なデータ伝送および高速アクセスサービスをご提供しています。</span
                 >
               </p>
 

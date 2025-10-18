@@ -7,7 +7,7 @@
             <div class="h-[35px] w-[280px] md:w-[360px] z-20 mx-auto">
               <div class="overflow-hidden z-16">
                 <div class="h-full z-16">
-                  <div class="h-full break-words editableContent z-16">
+                  <div class="h-full break-words z-16">
                     <p class="w-full text-center z-16">
                       <span class="text-white z-16"
                         ><strong class="z-16"
@@ -25,11 +25,9 @@
             </div>
             <br />
             <div class="esmartMargin smartAbs h-[35px] w-full z-21">
-              <div
-                class="overflow-hidden yibuFrameContent con_12_32 text_Style1 z-16"
-              >
+              <div class="overflow-hidden con_12_32 z-16">
                 <div class="h-full z-16">
-                  <div class="h-full break-words editableContent z-16">
+                  <div class="h-full break-words z-16">
                     <p class="text-center z-16">
                       <span class="tracking-[4px] z-16"
                         ><span class="text-[#33ffcc] z-16"
@@ -68,20 +66,15 @@
         <div
           class="flex justify-center mx-auto mb-14 h-[79px] w-[280px] md:w-[360px] z-2"
         >
-          <div class="overflow-hidden yibuFrameContent con_95_41 text_Style1">
-            <div id="txt_con_95_41" class="h-full">
-              <div
-                class="h-full break-words editableContent"
-                id="txtc_con_95_41"
-              >
+          <div class="overflow-hidden">
+            <div class="h-full">
+              <div class="h-full break-words">
                 <p class="text-center">
                   <span class="leading-[1.5]"
                     ><span class="text-[28px] md:text-[36px]"
                       ><span class="font-['Source_Han_Sans']"
                         ><strong
-                          ><span class="text-black"
-                            >サービス</span
-                          ></strong
+                          ><span class="text-black">サービス</span></strong
                         ></span
                       ></span
                     ></span
@@ -90,7 +83,7 @@
 
                 <p class="text-center">
                   <span class="text-base"
-                    ><span class="font-['Trebuchet_MS']"
+                    ><span class=""
                       ><span class="text-gray-500"
                         ><span class="leading-[1.5]">OUR SERVICE</span></span
                       ></span
@@ -121,16 +114,11 @@
                   z-index: 3;
                 "
               >
-                <div
-                  class="overflow-hidden yibuFrameContent con_82_41 text_Style1"
-                >
-                  <div id="txt_con_82_41" class="h-full">
-                    <div
-                      class="h-full break-words editableContent"
-                      id="txtc_con_82_41"
-                    >
+                <div class="overflow-hidden con_82_41">
+                  <div class="h-full">
+                    <div class="h-full break-words">
                       <p>
-                        <span class="font-['Microsoft_YaHei']"
+                        <span class=""
                           ><span class="text-lg md:text-xl">{{
                             value.title
                           }}</span></span
@@ -160,13 +148,11 @@
     >
       <div class="container mx-auto">
         <div class="py-12 mx-auto w-max md:py-20">
-          <div class="smAreaC" cid="con_71_49">
+          <div class="smAreaC">
             <div class="h-[42px] w-[320px] md:w-[431px] z-2 mx-auto">
-              <div
-                class="overflow-hidden yibuFrameContent con_72_49 text_Style1"
-              >
+              <div class="overflow-hidden con_72_49">
                 <div class="h-full">
-                  <div class="h-full break-words editableContent">
+                  <div class="h-full break-words">
                     <p class="text-center">
                       <span class="text-[28px] md:text-[40px]"
                         ><span class="font-['Arial']"
@@ -183,14 +169,14 @@
               </div>
             </div>
             <div class="h-[30px] min-w-[140px] z-9 mx-auto mt-4">
-              <div
-                class="overflow-hidden yibuFrameContent con_73_49 text_Style1"
-              >
+              <div class="overflow-hidden">
                 <div class="h-full">
-                  <div class="h-full break-words editableContent">
+                  <div class="h-full break-words">
                     <p class="text-center">
                       <span class="text-lg md:text-2xl"
-                        ><span class="text-white">私たちの強み（Our Strengths）</span></span
+                        ><span class="text-white"
+                          >私たちの強み（Our Strengths）</span
+                        ></span
                       >
                     </p>
                   </div>
@@ -198,9 +184,7 @@
               </div>
             </div>
             <div class="h-[20px] w-[85px] z-8 mx-auto mt-2">
-              <div
-                class="overflow-visible yibuFrameContent con_74_49 line_Style1"
-              >
+              <div class="overflow-visible line_Style1">
                 <!-- w-line -->
                 <div class="relative h-full">
                   <div class="w-line absolute top-1/2 w-[85px]"></div>
@@ -208,9 +192,7 @@
               </div>
             </div>
             <div class="h-[20px] w-[83px] z-8 mx-auto mt-2">
-              <div
-                class="overflow-visible yibuFrameContent con_75_49 line_Style1"
-              >
+              <div class="overflow-visible line_Style1">
                 <!-- w-line -->
                 <div class="relative h-full">
                   <div
@@ -249,14 +231,9 @@
                 z-index: 6;
               "
             >
-              <div
-                class="overflow-hidden yibuFrameContent con_59_49 text_Style1"
-              >
-                <div id="txt_con_59_49" class="h-full">
-                  <div
-                    class="h-full break-words editableContent"
-                    id="txtc_con_59_49"
-                  >
+              <div class="overflow-hidden con_59_49">
+                <div class="h-full">
+                  <div class="h-full break-words">
                     <p class="text-center">
                       <span class="text-3xl md:text-5xl"
                         ><span class="text-white"
@@ -271,9 +248,9 @@
               </div>
             </div>
 
-            <div class="overflow-hidden yibuFrameContent con_60_49 text_Style1">
-              <div id="txt_con_60_49" class="h-full">
-                <div class="h-full break-words editableContent">
+            <div class="overflow-hidden con_60_49">
+              <div class="h-full">
+                <div class="h-full break-words">
                   <p class="text-center">
                     <span class="text-sm md:text-base"
                       ><span class="text-white font-['Arial']">{{
@@ -310,7 +287,8 @@ export default {
       {
         class: 'bg-service2',
         title: '多言語サポート',
-        description: '中国語・英語・韓国語・日本語による多言語オンライン技術サポートを提供し、グローバルなお客様を包括的にサポートします。',
+        description:
+          '中国語・英語・韓国語・日本語による多言語オンライン技術サポートを提供し、グローバルなお客様を包括的にサポートします。',
       },
       {
         class: 'bg-service3',
@@ -333,7 +311,8 @@ export default {
       {
         class: 'bg-service6',
         title: '迅速な対応体制',
-        description: '専門チームが24時間待機し、5分以内の応答、2時間以内に都市圏のあらゆるIDCへ駆け付け可能な体制を整えています。',
+        description:
+          '専門チームが24時間待機し、5分以内の応答、2時間以内に都市圏のあらゆるIDCへ駆け付け可能な体制を整えています。',
       },
     ]
 
