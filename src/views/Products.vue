@@ -80,7 +80,6 @@
                           </span>
                         </p>
 
-
                         <p class="z-10">
                           <span class="leading-[1.2] z-10 block"
                             ><strong class="z-10"
@@ -101,8 +100,8 @@
 
                         <p class="z-10 text-left">
                           <span class="leading-[1.2] z-10 block"
-                            ><span class="text-[10.5pt] z-10"
-                              ><span class="font-['Calibri'] z-10"
+                            ><span class="text-[10.5pt] font-semibold z-10"
+                              ><span class="z-10"
                                 >1<span class="z-10 text-sm"
                                   >. WDM（波長分割多重）</span
                                 >
@@ -114,7 +113,7 @@
                         <p class="z-10 text-left">
                           <span class="leading-[1.2] z-10 block"
                             ><span class="text-[10.5pt] z-10"
-                              ><span class="font-['Calibri'] z-10">
+                              ><span class="z-10">
                                 光ファイバーのバックボーンネットワークに基づくWDMサービスです。<br />
                                 このサービスにより、お客様のコアネットワークのカバレッジを拡大することが可能です。<br />
                                 波長は 1Gbps、10Gbps、100Gbps
@@ -124,20 +123,20 @@
                           </span>
                         </p>
 
+                        <br />
                         <p class="z-10 text-left">
                           <span class="leading-[1.2] z-10 block"
                             ><span class="z-10 text-sm"
-                              ><span class="font-['Calibri'] z-10"
+                              ><span class="z-10 font-semibold"
                                 >2. EPL（Ethernet Private Line）</span
                               >
                             </span>
                           </span>
                         </p>
-                        <br />
                         <p class="z-10 text-left">
                           <span class="leading-[1.2] z-10 block"
                             ><span class="text-[10.5pt] z-10"
-                              ><span class="font-['Calibri'] z-10"
+                              ><span class="z-10"
                                 >専用で管理可能なポイント・ツー・ポイント型のレイヤー2
                                 MPLSイーサネットサービスで、最大 10Gbps
                                 の速度に対応します。<br />
@@ -152,7 +151,7 @@
                         <p class="z-10 text-left">
                           <span class="leading-[1.2] z-10 block"
                             ><span class="z-10 text-sm"
-                              ><span class="font-['Calibri'] z-10"
+                              ><span class="z-10 font-semibold"
                                 >3. WAVELIGHT & ダークファイバー</span
                               >
                             </span>
@@ -162,7 +161,7 @@
                         <p class="z-10 text-left">
                           <span class="leading-[1.2] z-10 block"
                             ><span class="text-[10.5pt] z-10"
-                              ><span class="font-['Calibri'] z-10"
+                              ><span class="z-10"
                                 >お客様は、必要な帯域容量に応じて当社のWDMネットワーク上で独自の多重化装置を使用することができます。<br />
                                 また、当社が提供する多重化装置をレンタルすることも可能です。<br />
                                 さらに、都市圏ネットワークにおいてダークファイバーサービスも提供しています。</span
@@ -212,7 +211,7 @@
                           <span
                             class="leading-[1.6] md:leading-[1.5] z-10 block"
                             ><span class="text-[12px] md:text-sm z-10"
-                              ><span class="font-['Calibri'] z-10"
+                              ><span class="z-10"
                                 ><span class="z-10 font-sans">
                                   当社は自社でネットワークを保有・運営しており、比類のない速度、信頼性、性能、そしてサービスを実現するカスタマイズ型ソリューションをお客様に提供しています。
                                   帯域幅は1Mbpsから最大10Gbpsまでの高帯域サービスに対応し、最新のネットワーク技術を活用して、お客様のあらゆるニーズにお応えします。</span
@@ -238,7 +237,7 @@
                           <span
                             class="leading-[1.6] md:leading-[1.5] z-10 block"
                             ><span class="text-[12px] md:text-sm z-10"
-                              ><span class="font-['Calibri'] z-10"
+                              ><span class="z-10"
                                 >当社の専用線サービスは、帯域をエンドツーエンドで物理的に分離し、専用利用が可能な高可用ネットワークを提供します。
                                 可用率は99.99%以上を保証し、ミリ秒単位の超低遅延を実現しています。</span
                               ></span
