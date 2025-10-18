@@ -51,7 +51,7 @@
           data-aos="fade-left"
         />
         <div
-          class="md:h-[534px] w-full md:w-[706px] z-[7] border-[#03ffc0] border-[4px] pt-24 pb-12 max-md:px-4 md:pl-[32px]"
+          class="md:h-[550px] w-full md:w-[706px] z-[7] border-[#03ffc0] border-[4px] pt-12 pb-12 max-md:px-4 md:pl-[32px]"
         >
           <div class="overflow-visible">
             <div class="w-container" data-effect-name="enterTop">
@@ -78,7 +78,7 @@
                       </div>
                     </div>
                   </div>
-                  <div class="md:h-[292px] md:w-[610px] z-[4]">
+                  <div class="md:h-[368px] md:w-[610px] z-[4]">
                     <div class="overflow-hidden">
                       <div class="h-full break-words">
                         <p class="text-justify">
