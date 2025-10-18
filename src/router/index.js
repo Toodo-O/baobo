@@ -50,7 +50,7 @@ const router = createRouter({
 
 // 全局前置守卫，修改页面标题
 router.beforeEach((to, from, next) => {
-  document.title = `${to.meta.title} | 鲍勃`;
+  document.title = `${to.meta.title} | Baobo Technology`;
   next();
 });
 
